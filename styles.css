@@ -1,0 +1,39 @@
+html { 
+    background: url(img/pizza.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, p, section, h3 {
+    text-align: center;
+    
+}
+
+main {
+    margin-top: 5px;
+}
+
+.menu-box {
+    background-color: white;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.pizza-header {
+    color: green;
+}
+
+#speciality-pizza {}
+
+.pizza-price {
+    font-size: 20px;
+}
